@@ -1,13 +1,13 @@
 # AdventureWorks-Sales--Dashboard-
 Interactive Sales Dashboard built with Power BI using the AdventureWorks dataset.
-Objectives:
+##Objectives:
 - Monitor overall business performance
 - Analyze sales trends over time
 - Compare revenue and profit across regions
 - Identify top-performing products
 - Explore regional sales in more detail using drill-through
-Dataset: Microsoft AdventureWorksDW2020 sample dataset.
-Dashboard Pages:
+##Dataset: Microsoft AdventureWorksDW2020 sample dataset.
+##Dashboard Pages:
 - Executive Overview: Overall information about revenue, profit, orders.
 + Total Revenue, Total Cost, Total Profit, and Total Orders
 + Revenue by Month Year
@@ -24,11 +24,11 @@ Dashboard Pages:
 + Color Distribution by Category
 + Top 8 Products by Profit
 + Monthly revenue, cost, profit, and profit margin 
-Tools used:
+##Tools used:
 - Power BI Desktop
 - Power Query
 - DAX
-Skills Demonstrated:
+##Skills Demonstrated:
 - Data cleaning and transformation
 - Data modeling
 - DAX measures
