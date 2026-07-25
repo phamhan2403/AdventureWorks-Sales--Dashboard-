@@ -12,7 +12,7 @@ Interactive Sales Dashboard built with Power BI using the Microsoft AdventureWor
 
 ## Dataset
 
-Microsoft AdventureWorks sample dataset.
+Microsoft AdventureWorksDW2020 sample dataset.
 
 ## Dashboard Pages
 
