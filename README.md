@@ -5,10 +5,11 @@ Interactive Sales Dashboard built with Power BI using the Microsoft AdventureWor
 ## Objectives
 
 - Monitor overall business performance
-- Analyze sales trends over time
-- Compare revenue and profit across regions
+- Analyze revenue and profit trends over time
+- Compare profitability across product categories
 - Identify top-performing products
-- Explore regional sales in more detail using drill-through
+- Explore product category performance in more detail using drill-through
+- Analyze revenue across different dimensions such as region, country, and color
 
 ## Dataset
 
@@ -18,36 +19,26 @@ Microsoft AdventureWorksDW2020 sample dataset.
 
 ### Executive Overview
 
-Overall information about revenue, profit, and orders.
+Overview of overall sales and profitability performance.
 
 - Total Revenue
 - Total Cost
 - Total Profit
 - Total Orders
-- Revenue by Month-Year
-- Revenue by Category
+- Revenue and Profit by Month-Year
+- Profit Margin by Category
 - Top 5 Products by Revenue
-
-### Sales Performance
-
-Detailed analysis of sales performance.
-
-- Top 1 Product by Revenue
-- Top 5 Regions by Revenue
-- Sales by Product Color
-- Revenue and Profit by Year
-- Orders by Year
+  
+The Top 5 Products visual dynamically responds to selections made in the dashboard.
 
 ### Region Details
 
-Detailed analysis for each region.
+Detailed analysis of a selected product category using drill-through.
 
-- Average Revenue per Customer
 - Top 1 Product by Revenue
-- Top 1 Product by Profit Margin
-- Color Distribution by Category
-- Top 8 Products by Profit
-- Monthly Revenue, Cost, Profit, and Profit Margin
+- Revenue by Subcategory
+- Revenue and Profit Margin Breakdown (Region/Country/Color)
+- Monthly Quantity, Revenue, Cost, Profit, and Profit Margin
 
 ## Tools Used
 
@@ -60,6 +51,7 @@ Detailed analysis for each region.
 - Data cleaning and transformation
 - Data modeling
 - DAX measures
+- Field Parameters
 - Interactive dashboard design
 - Drill-through navigation
 - Business data visualization
