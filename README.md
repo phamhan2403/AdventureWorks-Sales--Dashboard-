@@ -39,6 +39,7 @@ Detailed analysis of a selected product category using drill-through.
 - Revenue by Subcategory
 - Revenue and Profit Margin Breakdown (Region/Country/Color)
 - Monthly Quantity, Revenue, Cost, Profit, and Profit Margin
+- Year filter
 
 ## Tools Used
 
